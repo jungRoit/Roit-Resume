@@ -128,14 +128,7 @@
                             </artifactItems>
                         </configuration>
                     </execution>
-                </executions>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-dependency-plugin</artifactId>
-                <version>2.6</version>
-                <executions>
-                    <execution>
+                     <execution>
                         <phase>package</phase>
                         <goals>
                             <goal>copy</goal>
@@ -152,8 +145,8 @@
                         </configuration>
                     </execution>
                 </executions>
-            </plugin> 
-        </plugins>
+            </plugin>
+           
     </build>
 
 </project>
