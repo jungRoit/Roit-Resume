@@ -156,15 +156,7 @@
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#">
-                                    <span class="fa-stack fa-li">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
+                                <a href="https://www.linkedin.com/in/rohit-jung-karki-376075153/">
                                     <span class="fa-stack fa-li">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -182,7 +174,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                        <a class="nav-link js-scroll-trigger" href="#about">Intro</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
@@ -210,12 +202,10 @@
                     <h1 class="mb-0">Rohit 
                         <span class="text-primary">Jung Karki</span>
                     </h1>
-                    <div class="subheading mb-5">Binayak Marg, Sinamangal · Kathmandu, Nepal · (984)-393-3569 ·
+                    <div class="subheading mb-5">Shree Binayak Marg, Sinamangal 9, · Kathmandu, Nepal · (984)-393-3569 ·
                         <a href="https://plus.google.com/u/0/103256017276382103263">roit.jung@gmail.com</a>
                     </div>
-                    <p class="mb-5">Talented Java Developer and Software Engineer with
-                        proven Knowledge of object-oriented analysis and designs. good at building 
-                        corporate web applications.</p>
+                    <p class="mb-5">Leapfrog Certified Java Developer / Mean Stack Developer</p>
 
                     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="">
 
@@ -270,23 +260,24 @@
                             <h3 class="mb-0">Java Developer</h3>
                             <div class="subheading mb-3">
                                 <ul>
-                                    <li>Object Oriented Java</li>
+                                    <li>Object Oriented Concepts design and Thinking</li>
+                                    <li>Design Patterns (MVC, DAO, Factory)</li>
                                     <li>Spring Framework</li>
-                                    <li>Spring Security with CSRF protection</li>
+                                    <li>Spring Security</li>
                                     <li>Hibernate</li>
                                     <li>REST API</li>
                                     <li>Facebook API integration</li>
                                     <li>Maven based Multi Module Applications</li>
-                                    <li>Working with JSON data </li>
-                                    <li>MVC and DAO design Patterns</li>
                                     <li>Servlets and JSP</li>
+                                    <li>Socket Programming</li>
+                                    <li>Swing</li>
 
                                 </ul>
                             </div>
                             <p></p>
                         </div>
                         <div class="resume-date text-md-right">
-                            <span class="text-primary">1+ years of experience</span>
+                            <span class="text-primary">1+ years of Knowledge</span>
                         </div>
                     </div>
 
@@ -295,9 +286,10 @@
                             <h3 class="mb-0">Front End Developer</h3>
                             <div class="subheading mb-3">
                                 <ul>
-                                    <li>HTML</li>
-                                    <li>CSS</li>
+                                    <li>HTML 5</li>
+                                    <li>CSS 3</li>
                                     <li>Object Oriented Javascript</li>
+                                    <li>TypeScript</li>
                                     <li>JQuery</li>
                                     <li>Bootstrap</li>
                                 </ul>
@@ -305,25 +297,26 @@
                             <p></p>
                         </div>
                         <div class="resume-date text-md-right">
-                            <span class="text-primary">2+ years of experience</span>
+                            <span class="text-primary">1+ years of Knowledge</span>
                         </div>
                     </div>
 
                     <div class="resume-item d-flex flex-column flex-md-row mb-5" id="skill">
                         <div class="resume-content mr-auto">
-                            <h3 class="mb-0">JavaScript Developer</h3>
+                            <h3 class="mb-0">Mean Stack Developer</h3>
                             <div class="subheading mb-3">
                                 <ul>
                                     <li>Angular 4</li>
                                     <li>Node.js</li>
                                     <li>Express Framework</li>
-                                    <li>Working with Json Data</li>
+                                    <li>Rest API</li>
+                                    <li>Json Web Tokens</li>
                                 </ul>
                             </div>
                             <p></p>
                         </div>
                         <div class="resume-date text-md-right">
-                            <span class="text-primary">3+ months of experience</span>
+                            <span class="text-primary">3+ months of Knowledge</span>
                         </div>
                     </div>
 
@@ -334,6 +327,7 @@
                                 <ul>
                                     <li>My SQL</li>
                                     <li>SQL SERVER</li>
+                                    <li>Mongo Db</li>
                                 </ul>
                             </div>
                             <p></p>
@@ -358,6 +352,22 @@
                             <span class="text-primary"></span>
                         </div>
                     </div>
+                    
+                    <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                        <div class="resume-content mr-auto">
+                            <h3 class="mb-0">Others</h3>
+                            <div class="subheading mb-3">
+                                <ul>
+                                    <li>Git Basics (working with Team)</li>
+                                    <li>Unit Testing</li>
+                                </ul>
+                            </div>
+                            <p></p>
+                        </div>
+                        <div class="resume-date text-md-right">
+                            <span class="text-primary"></span>
+                        </div>
+                    </div>
 
 
                 </div>
@@ -374,7 +384,7 @@
                             <h3 class="mb-0">Tribhuvan University</h3>
                             <div class="subheading mb-3">Bachelor in Information Management</div>
                             <div>Thames International College</div>
-                            <p>GPA: 3.5</p>
+                            <p>Currently 6th Semester</p>
                         </div>
                         <div class="resume-date text-md-right">
                             <span class="text-primary">2015 - Present</span>
@@ -407,6 +417,7 @@
                         <div class="resume-content mr-auto">
                             <h3 class="mb-0">Leapfrog Academy</h3>
                             <div class="subheading mb-3">Combo-Java</div>
+                            <p>Certified November 2017</p>
 
                         </div>
                         <div class="resume-date text-md-right">
@@ -444,21 +455,15 @@
                     </div>
                     <div class="image" >
                         <img class="img" src="${SITE_URL}/static/img/project4.jpg" alt="" />
-                        <p class="title">Project Title</p>
+                        <p class="title">Mean Stack </p>
                         <div class="overlay"></div>
-                        <div class="button"><a href="#"> View Project </a></div>
+                        <div class="button"><a href="https://github.com/jungRoit/momo-factory.git"> View Project </a></div>
                     </div>
                     <div class="image" >
                         <img class="img" src="${SITE_URL}/static/img/project5.jpg" alt="" />
-                        <p class="title">Project Title</p>
+                        <p class="title">Momo Factory</p>
                         <div class="overlay"></div>
-                        <div class="button"><a href="#"> View Project </a></div>
-                    </div>
-                    <div class="image" >
-                        <img class="img" src="${SITE_URL}/static/img/project6.jpg" alt="" />
-                        <p class="title">Project Title</p>
-                        <div class="overlay"></div>
-                        <div class="button"><a href="#"> View Project </a></div>
+                        <div class="button"><a href="https://github.com/jungRoit/momo-factory.git"> View Project </a></div>
                     </div>
 
 
@@ -469,14 +474,16 @@
             <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
                 <div class="my-auto">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I am also a passionate Guitar Player and
+                    <p>Apart from being a Developer, I am also a passionate Guitar Player and
                         music lover. I am also the lead guitarist of Ulto Pulto Band and I take my 
-                        music seriously. I am a big fan of John Mayer, Eric Clapton, Stevie Ray Vaughan, Jimi Hendrix and other greats.
+                        music seriously. I am a big fan of John Mayer, Eric Clapton, Stevie Ray Vaughan,
+                        Jimi Hendrix and other greats. i love exploring new music.
                         
                             </p>
                         
-                    <p class="mb-0">I am also a Sport fanatic who follows Cricket, Football and some Tennis. I love reading a good book.
-                    I prefer watching romantic and comedy movies</p>
+                    <p class="mb-0">I am also a Sport fanatic who follows Cricket and football. I love reading a good book.
+                    I prefer watching romantic and comedy movies. some of my favorite movies includes Good Will Hunting, Life is Beautiful
+                    Before Sunrise, It's a WonderFul life</p>
                 </div>
             </section>
 
@@ -486,32 +493,14 @@
                     <ul class="fa-ul mb-0">
                         <li>
                             <i class="fa-li fa fa-trophy text-warning"></i>
-                            Google Analytics Certified Developer</li>
+                            Leapfrog Certified java Developer (November 2017)</li>
                         <li>
                             <i class="fa-li fa fa-trophy text-warning"></i>
-                            Mobile Web Specialist - Google Certification</li>
+                         Director's Merit List (Thames International College) 2 Times - Fall 2016, Spring 2017</li>
                         <li>
                             <i class="fa-li fa fa-trophy text-warning"></i>
-                            1<sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
-                        <li>
-                            <i class="fa-li fa fa-trophy text-warning"></i>
-                            1<sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
-                        <li>
-                            <i class="fa-li fa fa-trophy text-warning"></i>
-                            2<sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
-                        <li>
-                        <li>
-                            <i class="fa-li fa fa-trophy text-warning"></i>
-                            1<sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006</li>
-                        <li>
-                            <i class="fa-li fa fa-trophy text-warning"></i>
-                            3<sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005</li>
-                    </ul>
+                          Top of The Class (T.U. BIM Examination 3rd and 4th Semester)</li>
+                      
                 </div>
             </section>
 
