@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author User
  */
 @Controller
-@RequestMapping(value = "/")
+@RequestMapping(value = "/home")
 public class DefaultController {
     
     @RequestMapping(method = RequestMethod.GET)

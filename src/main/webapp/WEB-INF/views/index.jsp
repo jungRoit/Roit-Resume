@@ -378,6 +378,17 @@
                     <h2 class="mb-5">Education and Training</h2>
 
 
+                      <div class="resume-item d-flex flex-column flex-md-row">
+                        <div class="resume-content mr-auto">
+                            <h3 class="mb-0">Leapfrog Academy</h3>
+                            <div class="subheading mb-3">Combo-Java</div>
+                            <p>Certified November 2017</p>
+
+                        </div>
+                        <div class="resume-date text-md-right">
+                            <span class="text-primary"> 2017</span>
+                        </div>
+                    </div>
 
                     <div class="resume-item d-flex flex-column flex-md-row mb-5">
                         <div class="resume-content mr-auto">
@@ -413,17 +424,7 @@
                         </div>
                     </div>
 
-                    <div class="resume-item d-flex flex-column flex-md-row">
-                        <div class="resume-content mr-auto">
-                            <h3 class="mb-0">Leapfrog Academy</h3>
-                            <div class="subheading mb-3">Combo-Java</div>
-                            <p>Certified November 2017</p>
-
-                        </div>
-                        <div class="resume-date text-md-right">
-                            <span class="text-primary"> 2017</span>
-                        </div>
-                    </div>
+                  
 
 
 
@@ -476,8 +477,8 @@
                     <h2 class="mb-5">Interests</h2>
                     <p>Apart from being a Developer, I am also a passionate Guitar Player and
                         music lover. I am also the lead guitarist of Ulto Pulto Band and I take my 
-                        music seriously. I am a big fan of John Mayer, Eric Clapton, Stevie Ray Vaughan,
-                        Jimi Hendrix and other greats. i love exploring new music.
+                        music seriously. I am a big admirer of John Mayer, Eric Clapton, Stevie Ray Vaughan,
+                        Jimi Hendrix and others. i love exploring new music.
                         
                             </p>
                         
